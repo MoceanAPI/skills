@@ -1,0 +1,6 @@
+interface:
+  display_name: "MoceanAPI WhatsApp"
+  short_description: "Build Mocean WhatsApp REST integrations"
+  default_prompt: "Use $moceanapi-whatsapp to add a Mocean WhatsApp REST integration to this project."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoceanAPI Voice"
+  short_description: "Build accurate Mocean Voice REST integrations"
+  default_prompt: "Use $moceanapi-voice to build a Mocean Voice integration in this project."

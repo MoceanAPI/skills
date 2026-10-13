@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoceanAPI Verify"
+  short_description: "Build OTP login and phone verification with Mocean"
+  default_prompt: "Use $moceanapi-otp-verify to build a Mocean OTP verification integration in this project."

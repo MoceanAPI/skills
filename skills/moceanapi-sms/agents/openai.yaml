@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoceanAPI SMS"
+  short_description: "Build Mocean SMS REST integrations"
+  default_prompt: "Use $moceanapi-sms to add a Mocean SMS REST integration to this project."
